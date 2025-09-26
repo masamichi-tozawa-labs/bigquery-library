@@ -1,0 +1,13 @@
+{
+  "name": "bigquery-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "apply:table-function": "bash table_functions/apply_table_function.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4"
+}
